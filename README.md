@@ -1,10 +1,10 @@
 # DeepInsiderLearning
 Bhupendra Jogi !!!
 
-Got it! Here’s the updated README with the GPL 3 license:
 
-```markdown
-# Bhupendar Jogi 🎉
+
+
+## Bhupendar Jogi 🎉
 
 Welcome to the **Bhupendar Jogi** repository! This project showcases the work and contributions of Bhupendar Jogi, focusing on [briefly describe the main purpose or features of the project, e.g., web development, machine learning, etc.].
 
@@ -56,6 +56,6 @@ We welcome contributions! Please read the [Contributing Guidelines](CONTRIBUTING
 ## License 📄
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
-```
+
 
 Feel free to customize any parts as needed! 🛠️
